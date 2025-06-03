@@ -1,0 +1,1881 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: banko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-13 05:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: banko"
+
+#: includes/banko-option-framework.php:517
+msgid " Header Social Icon"
+msgstr ""
+
+#: includes/banko-option-framework.php:411
+msgid " Left Opening Middle Icon Right Login"
+msgstr ""
+
+#: includes/banko-option-framework.php:634
+msgid "\"banko\""
+msgstr ""
+
+#: template-parts/content-list-column.php:34
+#: template-parts/content-single.php:22
+msgid "% Comments"
+msgstr ""
+
+#: includes/banko-option-framework.php:986
+msgid "(111) 111-111-1111"
+msgstr ""
+
+#: includes/banko-global-function.php:290
+msgid "(Edit)"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: includes/template-tags.php:50 includes/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: template-parts/content-list-column.php:34
+#: template-parts/content-single.php:22
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/content-list-column.php:34
+#: template-parts/content-single.php:22
+msgid "1 Comments"
+msgstr ""
+
+#: includes/em-metabox.php:487 includes/em-metabox.php:515
+#: includes/em-metabox.php:593 includes/em-metabox.php:621
+#: includes/em-metabox.php:694 includes/em-metabox.php:722
+#: includes/em-metabox.php:802 includes/em-metabox.php:830
+#: includes/em-metabox.php:918 includes/em-metabox.php:946
+msgid "1 point 2s"
+msgstr ""
+
+#: includes/em-metabox.php:488 includes/em-metabox.php:516
+#: includes/em-metabox.php:594 includes/em-metabox.php:622
+#: includes/em-metabox.php:695 includes/em-metabox.php:723
+#: includes/em-metabox.php:803 includes/em-metabox.php:831
+#: includes/em-metabox.php:919 includes/em-metabox.php:947
+msgid "1 point 3s"
+msgstr ""
+
+#: includes/em-metabox.php:489 includes/em-metabox.php:517
+#: includes/em-metabox.php:595 includes/em-metabox.php:623
+#: includes/em-metabox.php:696 includes/em-metabox.php:724
+#: includes/em-metabox.php:804 includes/em-metabox.php:832
+#: includes/em-metabox.php:920 includes/em-metabox.php:948
+msgid "1 point 4s"
+msgstr ""
+
+#: includes/em-metabox.php:490 includes/em-metabox.php:518
+#: includes/em-metabox.php:596 includes/em-metabox.php:624
+#: includes/em-metabox.php:697 includes/em-metabox.php:725
+#: includes/em-metabox.php:805 includes/em-metabox.php:833
+#: includes/em-metabox.php:921 includes/em-metabox.php:949
+msgid "1 point 5s"
+msgstr ""
+
+#: includes/em-metabox.php:491 includes/em-metabox.php:519
+#: includes/em-metabox.php:597 includes/em-metabox.php:625
+#: includes/em-metabox.php:698 includes/em-metabox.php:726
+#: includes/em-metabox.php:806 includes/em-metabox.php:834
+#: includes/em-metabox.php:922 includes/em-metabox.php:950
+msgid "1 point 8s"
+msgstr ""
+
+#: includes/em-metabox.php:493 includes/em-metabox.php:521
+#: includes/em-metabox.php:599 includes/em-metabox.php:627
+#: includes/em-metabox.php:700 includes/em-metabox.php:728
+#: includes/em-metabox.php:808 includes/em-metabox.php:836
+#: includes/em-metabox.php:924 includes/em-metabox.php:952
+msgid "2 point 2s"
+msgstr ""
+
+#: includes/em-metabox.php:494 includes/em-metabox.php:522
+#: includes/em-metabox.php:600 includes/em-metabox.php:628
+#: includes/em-metabox.php:701 includes/em-metabox.php:729
+#: includes/em-metabox.php:809 includes/em-metabox.php:837
+#: includes/em-metabox.php:925 includes/em-metabox.php:953
+msgid "2 point 5s"
+msgstr ""
+
+#: includes/em-metabox.php:492 includes/em-metabox.php:520
+#: includes/em-metabox.php:598 includes/em-metabox.php:626
+#: includes/em-metabox.php:699 includes/em-metabox.php:727
+#: includes/em-metabox.php:807 includes/em-metabox.php:835
+#: includes/em-metabox.php:923 includes/em-metabox.php:951
+msgid "2s"
+msgstr ""
+
+#: includes/em-metabox.php:495 includes/em-metabox.php:523
+#: includes/em-metabox.php:601 includes/em-metabox.php:629
+#: includes/em-metabox.php:702 includes/em-metabox.php:730
+#: includes/em-metabox.php:810 includes/em-metabox.php:838
+#: includes/em-metabox.php:926 includes/em-metabox.php:954
+msgid "3s"
+msgstr ""
+
+#: 404.php:32 includes/banko-breadcrumb.php:124
+msgid "404"
+msgstr ""
+
+#: includes/banko-option-framework.php:1522
+msgid "404 Area"
+msgstr ""
+
+#: includes/banko-option-framework.php:1532
+msgid "404 background with image, color."
+msgstr ""
+
+#: includes/banko-option-framework.php:1567
+msgid "404 Information"
+msgstr ""
+
+#: includes/banko-option-framework.php:1569
+msgid "404 Oops! The page you are Looking for does not exist. "
+msgstr ""
+
+#: includes/banko-option-framework.php:1531
+msgid "404 Page Background Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:962
+msgid "About Us"
+msgstr ""
+
+#: includes/em-metabox.php:370
+msgid "Active Class"
+msgstr ""
+
+#: includes/em-metabox.php:371
+msgid "Add Active Class here \"active\""
+msgstr ""
+
+#: functions.php:260 functions.php:269
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/banko-option-framework.php:462
+msgid "Address Icon Hover Color"
+msgstr ""
+
+#: includes/em-metabox.php:103
+msgid "Alige Right"
+msgstr ""
+
+#: includes/em-metabox.php:101
+msgid "Align Left"
+msgstr ""
+
+#: includes/em-metabox.php:102
+msgid "Align Middle"
+msgstr ""
+
+#: includes/banko-option-framework.php:358
+msgid "All Header Hide"
+msgstr ""
+
+#: includes/banko-option-framework.php:356
+msgid "All Menu OFF/ON section"
+msgstr ""
+
+#: includes/banko-option-framework.php:1171
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: includes/banko-option-framework.php:936
+#: includes/banko-option-framework.php:1579
+msgid "Allow your users to choose the spacing or padding they want."
+msgstr ""
+
+#: includes/banko-option-framework.php:501
+#: includes/banko-option-framework.php:1727
+#: includes/banko-option-framework.php:1811
+msgid "Allow your users to choose the spacing padding they want."
+msgstr ""
+
+#: includes/banko-breadcrumb.php:94 includes/banko-breadcrumb.php:99
+#: includes/banko-breadcrumb.php:104
+msgid "Archive for"
+msgstr ""
+
+#: includes/banko-breadcrumb.php:109
+msgid "Author"
+msgstr ""
+
+#: includes/banko-option-framework.php:1214
+msgid "BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1315
+#: includes/banko-option-framework.php:1416
+msgid "BG color"
+msgstr ""
+
+#: includes/banko-breadcrumb.php:114
+msgid "Blog Archives"
+msgstr ""
+
+#: includes/banko-option-framework.php:1306
+msgid "Blog Area"
+msgstr ""
+
+#: includes/banko-option-framework.php:1380
+msgid "Blog btn Border Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1402
+msgid "Blog Btn Hover BG & Border Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1391
+msgid "Blog btn Hover Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1369
+msgid "Blog btn Text Color"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Grid"
+msgstr ""
+
+#: includes/banko-option-framework.php:1314
+msgid "Blog Item BG Color"
+msgstr ""
+
+#. Name of the template
+msgid "Blog List"
+msgstr ""
+
+#: includes/banko-option-framework.php:1347
+msgid "Blog Post Meta Icon Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1357
+msgid "Blog Post Meta Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1415
+msgid "Blog Sidebar BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1509
+msgid "Blog Social share Show/Hide"
+msgstr ""
+
+#: includes/banko-option-framework.php:1324
+msgid "Blog Title Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1336
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: includes/em-metabox.php:438 includes/em-metabox.php:544
+#: includes/em-metabox.php:645 includes/em-metabox.php:753
+#: includes/em-metabox.php:869
+msgid "bounceIn"
+msgstr ""
+
+#: includes/em-metabox.php:439 includes/em-metabox.php:545
+#: includes/em-metabox.php:646 includes/em-metabox.php:754
+#: includes/em-metabox.php:870
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/em-metabox.php:440 includes/em-metabox.php:546
+#: includes/em-metabox.php:647 includes/em-metabox.php:755
+#: includes/em-metabox.php:871
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/em-metabox.php:441 includes/em-metabox.php:547
+#: includes/em-metabox.php:648 includes/em-metabox.php:756
+#: includes/em-metabox.php:872
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/em-metabox.php:442 includes/em-metabox.php:548
+#: includes/em-metabox.php:649 includes/em-metabox.php:757
+#: includes/em-metabox.php:873
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/banko-option-framework.php:374
+#: includes/banko-option-framework.php:385
+#: includes/banko-option-framework.php:1624
+msgid "Box Layout"
+msgstr ""
+
+#: includes/em-metabox.php:68
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/banko-option-framework.php:1099
+msgid "Breadcrumb Area"
+msgstr ""
+
+#: includes/banko-option-framework.php:1112
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: includes/banko-option-framework.php:1113
+msgid "Breadcrumb background with image, color."
+msgstr ""
+
+#: includes/banko-option-framework.php:1157
+msgid "Breadcrumb Current Text Color"
+msgstr ""
+
+#: includes/em-metabox.php:78
+msgid "Breadcrumb Title"
+msgstr ""
+
+#: includes/banko-option-framework.php:1121
+msgid "Breadcrumb Title Color"
+msgstr ""
+
+#: includes/em-metabox.php:50
+msgid "Breadcumb Option"
+msgstr ""
+
+#: includes/em-metabox.php:864
+msgid "Button Animate"
+msgstr ""
+
+#: includes/em-metabox.php:931
+msgid "Button Animate Delay"
+msgstr ""
+
+#: includes/em-metabox.php:904
+msgid "Button Animate Duration"
+msgstr ""
+
+#: includes/em-metabox.php:364
+msgid "Button Link"
+msgstr ""
+
+#: includes/banko-option-framework.php:692 includes/em-metabox.php:358
+msgid "Button Text"
+msgstr ""
+
+#: includes/em-metabox.php:736
+msgid "Button Text 1"
+msgstr ""
+
+#: includes/em-metabox.php:852
+msgid "Button Text 2"
+msgstr ""
+
+#: includes/banko-option-framework.php:699
+msgid "Button URL"
+msgstr ""
+
+#: includes/em-metabox.php:846
+msgid "Button url 1"
+msgstr ""
+
+#: includes/em-metabox.php:858
+msgid "Button url 2"
+msgstr ""
+
+#: template-parts/content-list.php:39 template-parts/content-search.php:41
+#: template-parts/content-blog.php:28
+msgid "by "
+msgstr ""
+
+#: template-parts/content-single.php:19
+msgid "by:"
+msgstr ""
+
+#: includes/em-metabox.php:144
+msgid "Case Study Description"
+msgstr ""
+
+#: includes/banko-breadcrumb.php:47
+msgid "Case Study Details"
+msgstr ""
+
+#: includes/em-metabox.php:139
+msgid "Case Study Option"
+msgstr ""
+
+#: template-parts/content-single.php:65
+msgid "Categories:"
+msgstr ""
+
+#: includes/em-metabox.php:966
+msgid "Center Alignment"
+msgstr ""
+
+#: includes/banko-option-framework.php:980
+msgid "Chicago 12, Melborne City, USA"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:27
+msgid "Cmb2"
+msgstr ""
+
+#: includes/banko-option-framework.php:1645
+msgid "Column 1"
+msgstr ""
+
+#: includes/banko-option-framework.php:1646
+msgid "Column 2"
+msgstr ""
+
+#: includes/banko-option-framework.php:1647
+msgid "Column 3"
+msgstr ""
+
+#: includes/banko-option-framework.php:1648
+msgid "Column 4"
+msgstr ""
+
+#: includes/banko-option-framework.php:1649
+msgid "Column 6"
+msgstr ""
+
+#: includes/banko-global-function.php:233
+msgid "Comment"
+msgstr ""
+
+#: comments.php:29 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:43
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/banko-option-framework.php:1254
+msgid "Contact Button BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1263
+msgid "Contact Button Hover BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1273
+msgid "Contact Button Hover Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1245
+msgid "Contact Button Text Color"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:22
+msgid "Contact form 7"
+msgstr ""
+
+#: includes/banko-option-framework.php:974
+msgid "Contact Info"
+msgstr ""
+
+#: includes/em-metabox.php:634
+msgid "Content"
+msgstr ""
+
+#: includes/em-metabox.php:640
+msgid "Content Animate"
+msgstr ""
+
+#: includes/em-metabox.php:707
+msgid "Content Animate Delay"
+msgstr ""
+
+#: includes/em-metabox.php:680
+msgid "Content Animate Duration"
+msgstr ""
+
+#: footer.php:199 includes/footer.php:360
+msgid "Copyright &copy; banko 2019 all right reserved."
+msgstr ""
+
+#: includes/banko-option-framework.php:1766
+msgid "Copyright &copy; banko all rights reserved."
+msgstr ""
+
+#: includes/banko-option-framework.php:1764
+msgid "Copyright information"
+msgstr ""
+
+#: includes/banko-option-framework.php:1794
+msgid "Copyright Section BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1614
+msgid "Copyright Section Show/Hide"
+msgstr ""
+
+#: includes/banko-option-framework.php:1751
+msgid "Copyright Style Layout"
+msgstr ""
+
+#: includes/banko-option-framework.php:1756
+msgid "Copyright Text and Left Menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:1755
+msgid "Copyright Text and Right Menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:1757
+msgid "Copyright Text and Social Icon"
+msgstr ""
+
+#: includes/banko-option-framework.php:1776
+msgid "Copyright Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1785
+msgid "Copyright Text Hover Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1754
+msgid "Copyright Text Style"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Roboto, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:131
+msgctxt "Cormorant Garamond font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/banko-option-framework.php:623
+msgid "Create logo spacing massing"
+msgstr ""
+
+#: includes/banko-option-framework.php:1602
+msgid "Customize Your Footer"
+msgstr ""
+
+#: includes/banko-option-framework.php:1829
+msgid "Customizer Only"
+msgstr ""
+
+#: includes/banko-option-framework.php:1836
+msgid "Customizer Only Option"
+msgstr ""
+
+#: includes/banko-option-framework.php:1193
+msgid "Default Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:674 includes/em-metabox.php:39
+msgid "Default Header Menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:569
+msgid "Default Logo"
+msgstr ""
+
+#: includes/em-metabox.php:129
+msgid "Degignation"
+msgstr ""
+
+#: includes/em-metabox.php:145 includes/em-metabox.php:191
+msgid "Description"
+msgstr ""
+
+#. Author of the theme
+msgid "DreamIT"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:14
+msgid "dreamit elementor extension"
+msgstr ""
+
+#. %s: Name of current post
+#: includes/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:42
+msgid "Elementor"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:57
+msgid "Elementor Header & Footer Builder"
+msgstr ""
+
+#: includes/banko-option-framework.php:1282
+msgid "EM Video Widget Ovelrlay Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:526
+#: includes/banko-option-framework.php:1054
+msgid "Enter social links"
+msgstr ""
+
+#: includes/banko-option-framework.php:992
+msgid "Example@gmail.com"
+msgstr ""
+
+#: includes/em-metabox.php:443 includes/em-metabox.php:549
+#: includes/em-metabox.php:650 includes/em-metabox.php:758
+#: includes/em-metabox.php:874
+msgid "fadeIn"
+msgstr ""
+
+#: includes/em-metabox.php:444 includes/em-metabox.php:550
+#: includes/em-metabox.php:651 includes/em-metabox.php:759
+#: includes/em-metabox.php:875
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/em-metabox.php:445 includes/em-metabox.php:551
+#: includes/em-metabox.php:652 includes/em-metabox.php:760
+#: includes/em-metabox.php:876
+msgid "fadeInDownBig"
+msgstr ""
+
+#: includes/em-metabox.php:446 includes/em-metabox.php:552
+#: includes/em-metabox.php:653 includes/em-metabox.php:761
+#: includes/em-metabox.php:877
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/em-metabox.php:447 includes/em-metabox.php:553
+#: includes/em-metabox.php:654 includes/em-metabox.php:762
+#: includes/em-metabox.php:878
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: includes/em-metabox.php:448 includes/em-metabox.php:554
+#: includes/em-metabox.php:655 includes/em-metabox.php:763
+#: includes/em-metabox.php:879
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/em-metabox.php:449 includes/em-metabox.php:555
+#: includes/em-metabox.php:656 includes/em-metabox.php:764
+#: includes/em-metabox.php:880
+msgid "fadeInRightBig"
+msgstr ""
+
+#: includes/em-metabox.php:450 includes/em-metabox.php:556
+#: includes/em-metabox.php:657 includes/em-metabox.php:765
+#: includes/em-metabox.php:881
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/em-metabox.php:451 includes/em-metabox.php:557
+#: includes/em-metabox.php:658 includes/em-metabox.php:766
+#: includes/em-metabox.php:882
+msgid "fadeInUpBig"
+msgstr ""
+
+#: includes/banko-option-framework.php:433
+msgid "Follow Title"
+msgstr ""
+
+#: includes/banko-option-framework.php:434
+msgid "Follow Us"
+msgstr ""
+
+#: functions.php:282
+msgid "Footer "
+msgstr ""
+
+#: includes/banko-option-framework.php:1600
+msgid "Footer Area"
+msgstr ""
+
+#: includes/banko-option-framework.php:1742
+msgid "Footer Copyright Info"
+msgstr ""
+
+#: functions.php:46
+msgid "Footer Menu (Wrok If Active Redux)"
+msgstr ""
+
+#: includes/banko-option-framework.php:1634
+msgid "Footer Widget Section"
+msgstr ""
+
+#: includes/banko-option-framework.php:375
+#: includes/banko-option-framework.php:386
+#: includes/banko-option-framework.php:1625
+msgid "Full Layout"
+msgstr ""
+
+#: includes/banko-option-framework.php:156
+msgid "General"
+msgstr ""
+
+#: includes/banko-option-framework.php:694
+msgid "Get A Quote"
+msgstr ""
+
+#: 404.php:36
+msgid "Go Home"
+msgstr ""
+
+#: includes/banko-option-framework.php:348
+msgid "Header area"
+msgstr ""
+
+#: includes/banko-option-framework.php:560
+#: includes/banko-option-framework.php:562
+msgid "Header Logo"
+msgstr ""
+
+#: includes/banko-option-framework.php:661
+msgid "Header Menu"
+msgstr ""
+
+#: includes/em-metabox.php:40
+msgid "Header Menu Transparent"
+msgstr ""
+
+#: includes/em-metabox.php:42
+msgid "Header OnePage Menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:350
+msgid "Header options"
+msgstr ""
+
+#: includes/banko-option-framework.php:953
+msgid "Header Side Bar"
+msgstr ""
+
+#: includes/em-metabox.php:33
+msgid "Header Style"
+msgstr ""
+
+#: includes/em-metabox.php:15
+msgid "Header Style Option"
+msgstr ""
+
+#: includes/em-metabox.php:41
+msgid "Header Style Two"
+msgstr ""
+
+#: includes/banko-option-framework.php:365
+msgid "Header Top"
+msgstr ""
+
+#: includes/banko-option-framework.php:448
+msgid "Header Top Address Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:439
+msgid "Header Top Icon Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:484
+msgid "Header Top Section BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:397
+msgid "Header Top Style "
+msgstr ""
+
+#: includes/banko-option-framework.php:675
+#: includes/banko-option-framework.php:676
+msgid "Header Transparent Menu "
+msgstr ""
+
+#: includes/em-metabox.php:185 includes/em-metabox.php:207
+#: includes/em-metabox.php:217 includes/em-metabox.php:227
+#: includes/em-metabox.php:243 includes/em-metabox.php:260
+#: includes/em-metabox.php:276 includes/em-metabox.php:286
+msgid "Hide"
+msgstr ""
+
+#: includes/em-metabox.php:73
+msgid "Hide breadcrumb"
+msgstr ""
+
+#: includes/em-metabox.php:60 includes/em-metabox.php:83
+msgid "Hide Title"
+msgstr ""
+
+#: includes/em-metabox.php:28
+msgid "Hide Top Menu This Page"
+msgstr ""
+
+#: includes/banko-breadcrumb.php:66
+msgid "Home"
+msgstr ""
+
+#: includes/banko-option-framework.php:1224
+msgid "Hover BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1234
+msgid "Hover Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1568
+#: includes/banko-option-framework.php:1765
+msgid "HTML tags allowed: a, br, em, strong"
+msgstr ""
+
+#. URI of the theme
+msgid "http://wp.dreamitsolution.net/banko/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/dreamit-solution"
+msgstr ""
+
+#: includes/banko-option-framework.php:363
+msgid ""
+"If you ON this section. It will show header top section all your single page."
+" But If you want to only show header top in home and others page, Please "
+"goes to your page, there you can see header top OFF/ON section. Please set It"
+msgstr ""
+
+#: includes/em-metabox.php:748
+msgid "Image Animate"
+msgstr ""
+
+#: includes/em-metabox.php:815
+msgid "Image Animate Delay"
+msgstr ""
+
+#: includes/em-metabox.php:788
+msgid "Image Animate Duration"
+msgstr ""
+
+#: includes/em-metabox.php:340
+msgid "insert Amount here"
+msgstr ""
+
+#: includes/em-metabox.php:737 includes/em-metabox.php:853
+msgid "insert button text here"
+msgstr ""
+
+#: includes/em-metabox.php:847 includes/em-metabox.php:859
+msgid "insert button text url here"
+msgstr ""
+
+#: includes/banko-option-framework.php:979
+msgid "Insert Company Location "
+msgstr ""
+
+#: includes/em-metabox.php:635
+msgid "insert content here"
+msgstr ""
+
+#: includes/em-metabox.php:334
+msgid "insert Currency here e.g $"
+msgstr ""
+
+#: includes/em-metabox.php:130
+msgid "insert Degignation here"
+msgstr ""
+
+#: includes/banko-option-framework.php:991
+msgid "Insert Email Address "
+msgstr ""
+
+#: includes/banko-option-framework.php:399
+msgid "Insert header top info"
+msgstr ""
+
+#: includes/em-metabox.php:90 includes/em-metabox.php:396
+msgid "insert image here"
+msgstr ""
+
+#: includes/em-metabox.php:266
+msgid "insert multiple gellary image here for single page"
+msgstr ""
+
+#: includes/banko-option-framework.php:985
+msgid "Insert Phone Number"
+msgstr ""
+
+#: includes/em-metabox.php:352
+msgid "insert pricing Item"
+msgstr ""
+
+#: includes/em-metabox.php:365
+msgid "Insert register Link"
+msgstr ""
+
+#: includes/em-metabox.php:743
+msgid "insert single slide image here"
+msgstr ""
+
+#: includes/banko-option-framework.php:525
+msgid "Insert Social Icons"
+msgstr ""
+
+#: includes/em-metabox.php:534
+msgid ""
+"insert sub-title here. for highlight text use <span> ex-<span>website</span>"
+msgstr ""
+
+#: includes/em-metabox.php:388
+msgid "insert tab menu here"
+msgstr ""
+
+#: includes/banko-option-framework.php:693
+msgid "Insert text"
+msgstr ""
+
+#: includes/banko-option-framework.php:633
+msgid "Insert text ex: - \"banko\", Must be use \"\" for logo text "
+msgstr ""
+
+#: includes/em-metabox.php:359
+msgid "Insert Text Here"
+msgstr ""
+
+#: includes/em-metabox.php:427
+msgid "insert title here. for highlight text use <span> ex-<span>Design</span>"
+msgstr ""
+
+#: includes/banko-option-framework.php:700
+msgid "Insert url ex: - http://webitkurigram.com/"
+msgstr ""
+
+#: includes/em-metabox.php:233 includes/em-metabox.php:249
+msgid "insert video link. ex-https://youtu.be/OJ9ejTy4J98"
+msgstr ""
+
+#: includes/em-metabox.php:346
+msgid "insert Year, Month, Week or Day here"
+msgstr ""
+
+#: includes/banko-option-framework.php:1744
+msgid "Insert your copyright style"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:52
+msgid "Instagram feed"
+msgstr ""
+
+#. %s: post title
+#: includes/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: includes/banko-global-function.php:239
+msgid "Leave Comment"
+msgstr ""
+
+#: includes/banko-option-framework.php:409
+msgid "Left Address Right Icon"
+msgstr ""
+
+#: includes/banko-option-framework.php:412
+msgid "Left Address Right Icon & Search"
+msgstr ""
+
+#: includes/em-metabox.php:965
+msgid "Left Alignment"
+msgstr ""
+
+#: includes/banko-option-framework.php:410
+msgid "Left Icon Right Address"
+msgstr ""
+
+#: includes/banko-option-framework.php:609
+msgid "Logo Height"
+msgstr ""
+
+#: includes/banko-option-framework.php:632
+msgid "Logo Text"
+msgstr ""
+
+#: includes/banko-option-framework.php:616
+msgid "Logo Width"
+msgstr ""
+
+#: functions.php:133
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:32
+msgid "Mailchimp for WP"
+msgstr ""
+
+#: includes/footer.php:52
+msgid "mailto:"
+msgstr ""
+
+#: functions.php:43
+msgid "Main Menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:821
+msgid "Main Menu Hover Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:742
+msgid "Main Menu Section BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:831
+msgid "Main Menu Sticky BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:866
+msgid "Main Menu Sticky Current Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:714
+msgid "Menu Button & Search BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:705
+msgid "Menu Button & Search Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:733
+msgid "Menu Hover Button BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:724
+msgid "Menu Hover Button Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:601
+msgid "Mobile Logo"
+msgstr ""
+
+#: functions.php:45
+msgid "Mobile Menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:639
+msgid "Mobile Menu BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:648
+msgid "Mobile Menu Icon Color"
+msgstr ""
+
+#: includes/em-metabox.php:972
+msgid "More Sliders Option, Please see slider widget area"
+msgstr ""
+
+#: includes/em-metabox.php:265
+msgid "Multiple Gellary Image"
+msgstr ""
+
+#: includes/em-metabox.php:401
+msgid ""
+"must be set \"active in\" class into one post from all post, for active tab "
+"item"
+msgstr ""
+
+#: comments.php:33 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: includes/em-metabox.php:36
+msgid ""
+"Note: When you select 1-1,3,4,6 style menu, that time you need to set top "
+"bar menu, otherwise you can not find our real menu style."
+msgstr ""
+
+#: search.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: includes/banko-option-framework.php:1106
+msgid ""
+"Notice:- If you want to more breadrucmb control. Please see every page "
+"bottom area. We Added More Field Here"
+msgstr ""
+
+#: includes/banko-option-framework.php:1200
+msgid ""
+"Notice:- we set our all color in our adns, But only carousel Arrow, contact "
+"button and scroll button color will be change by below option"
+msgstr ""
+
+#: comments.php:32 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:47
+msgid "One Click Demo Import"
+msgstr ""
+
+#: includes/banko-option-framework.php:577
+msgid "One Page Menu Logo"
+msgstr ""
+
+#: functions.php:44
+msgid "OnePage Menu"
+msgstr ""
+
+#: 404.php:33
+msgid "Oops! The page you are looking for does not exist."
+msgstr ""
+
+#: includes/banko-option-framework.php:474
+msgid "Opening BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:997
+msgid "Opening Hour Text"
+msgstr ""
+
+#: includes/banko-option-framework.php:1842
+msgid "Opt 1"
+msgstr ""
+
+#: includes/banko-option-framework.php:1843
+msgid "Opt 2"
+msgstr ""
+
+#: includes/banko-option-framework.php:1844
+msgid "Opt 3"
+msgstr ""
+
+#: includes/banko-breadcrumb.php:11
+msgid "Our Blog"
+msgstr ""
+
+#: includes/banko-option-framework.php:500
+#: includes/banko-option-framework.php:1170
+#: includes/banko-option-framework.php:1726
+#: includes/banko-option-framework.php:1810
+msgid "Padding Option"
+msgstr ""
+
+#: functions.php:267
+msgid "Page"
+msgstr ""
+
+#: includes/em-metabox.php:88
+msgid "Page Breadcrumb Image"
+msgstr ""
+
+#: includes/em-metabox.php:56
+msgid "Page Title"
+msgstr ""
+
+#: template-parts/content-page.php:41 template-parts/content-single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: includes/banko-option-framework.php:1499
+msgid "Pagination Hover Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1488
+msgid "Pagination Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:669
+msgid ""
+"Please set a menu for your all single page. But, For your home and others "
+"main page menu, Please goes to your page, there you can see header menu "
+"section. Please set a  menu style there"
+msgstr ""
+
+#: includes/em-metabox.php:505 includes/em-metabox.php:611
+#: includes/em-metabox.php:712 includes/em-metabox.php:820
+#: includes/em-metabox.php:936
+msgid "point 0s"
+msgstr ""
+
+#: includes/em-metabox.php:478 includes/em-metabox.php:506
+#: includes/em-metabox.php:584 includes/em-metabox.php:612
+#: includes/em-metabox.php:685 includes/em-metabox.php:713
+#: includes/em-metabox.php:793 includes/em-metabox.php:821
+#: includes/em-metabox.php:909 includes/em-metabox.php:937
+msgid "point 1s"
+msgstr ""
+
+#: includes/em-metabox.php:479 includes/em-metabox.php:507
+#: includes/em-metabox.php:585 includes/em-metabox.php:613
+#: includes/em-metabox.php:686 includes/em-metabox.php:714
+#: includes/em-metabox.php:794 includes/em-metabox.php:822
+#: includes/em-metabox.php:910 includes/em-metabox.php:938
+msgid "point 2s"
+msgstr ""
+
+#: includes/em-metabox.php:480 includes/em-metabox.php:508
+#: includes/em-metabox.php:586 includes/em-metabox.php:614
+#: includes/em-metabox.php:687 includes/em-metabox.php:715
+#: includes/em-metabox.php:795 includes/em-metabox.php:823
+#: includes/em-metabox.php:911 includes/em-metabox.php:939
+msgid "point 3s"
+msgstr ""
+
+#: includes/em-metabox.php:481 includes/em-metabox.php:509
+#: includes/em-metabox.php:587 includes/em-metabox.php:615
+#: includes/em-metabox.php:688 includes/em-metabox.php:716
+#: includes/em-metabox.php:796 includes/em-metabox.php:824
+#: includes/em-metabox.php:912 includes/em-metabox.php:940
+msgid "point 4s"
+msgstr ""
+
+#: includes/em-metabox.php:482 includes/em-metabox.php:510
+#: includes/em-metabox.php:588 includes/em-metabox.php:616
+#: includes/em-metabox.php:689 includes/em-metabox.php:717
+#: includes/em-metabox.php:797 includes/em-metabox.php:825
+#: includes/em-metabox.php:913 includes/em-metabox.php:941
+msgid "point 5s"
+msgstr ""
+
+#: includes/em-metabox.php:483 includes/em-metabox.php:511
+#: includes/em-metabox.php:589 includes/em-metabox.php:617
+#: includes/em-metabox.php:690 includes/em-metabox.php:718
+#: includes/em-metabox.php:798 includes/em-metabox.php:826
+#: includes/em-metabox.php:914 includes/em-metabox.php:942
+msgid "point 6s"
+msgstr ""
+
+#: includes/em-metabox.php:484 includes/em-metabox.php:512
+#: includes/em-metabox.php:590 includes/em-metabox.php:618
+#: includes/em-metabox.php:691 includes/em-metabox.php:719
+#: includes/em-metabox.php:799 includes/em-metabox.php:827
+#: includes/em-metabox.php:915 includes/em-metabox.php:943
+msgid "point 7s"
+msgstr ""
+
+#: includes/em-metabox.php:485 includes/em-metabox.php:513
+#: includes/em-metabox.php:591 includes/em-metabox.php:619
+#: includes/em-metabox.php:692 includes/em-metabox.php:720
+#: includes/em-metabox.php:800 includes/em-metabox.php:828
+#: includes/em-metabox.php:916 includes/em-metabox.php:944
+msgid "point 8s"
+msgstr ""
+
+#: includes/em-metabox.php:486 includes/em-metabox.php:514
+#: includes/em-metabox.php:592 includes/em-metabox.php:620
+#: includes/em-metabox.php:693 includes/em-metabox.php:721
+#: includes/em-metabox.php:801 includes/em-metabox.php:829
+#: includes/em-metabox.php:917 includes/em-metabox.php:945
+msgid "point 9s"
+msgstr ""
+
+#: includes/em-metabox.php:190
+msgid "Portfolio Description"
+msgstr ""
+
+#: includes/em-metabox.php:168
+msgid "Portfolio Option"
+msgstr ""
+
+#: includes/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: includes/banko-global-function.php:236
+msgid "Post Comment"
+msgstr ""
+
+#: includes/template-tags.php:28
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: includes/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: includes/em-metabox.php:339
+msgid "Price Amount"
+msgstr ""
+
+#: includes/em-metabox.php:333
+msgid "Price Currency"
+msgstr ""
+
+#: includes/em-metabox.php:345
+msgid "Price Delay"
+msgstr ""
+
+#: includes/em-metabox.php:328
+msgid "Price Option"
+msgstr ""
+
+#: includes/em-metabox.php:351
+msgid "pricing content"
+msgstr ""
+
+#: template-parts/content-list.php:50 template-parts/content-search.php:52
+#: template-parts/content-blog.php:38
+msgid "Read More"
+msgstr ""
+
+#: includes/banko-tgm-activation.php:37
+msgid "Redux-framework"
+msgstr ""
+
+#: includes/banko-global-function.php:282
+msgid "Reply"
+msgstr ""
+
+#: includes/banko-option-framework.php:593
+msgid "Retina Logo"
+msgstr ""
+
+#: includes/banko-option-framework.php:1558
+msgid "Return Link Color"
+msgstr ""
+
+#: includes/em-metabox.php:967
+msgid "Right Alignment"
+msgstr ""
+
+#: includes/em-metabox.php:457 includes/em-metabox.php:563
+#: includes/em-metabox.php:664 includes/em-metabox.php:772
+#: includes/em-metabox.php:888
+msgid "rollIn"
+msgstr ""
+
+#: includes/em-metabox.php:452 includes/em-metabox.php:558
+#: includes/em-metabox.php:659 includes/em-metabox.php:767
+#: includes/em-metabox.php:883
+msgid "rotateIn"
+msgstr ""
+
+#: includes/em-metabox.php:453 includes/em-metabox.php:559
+#: includes/em-metabox.php:660 includes/em-metabox.php:768
+#: includes/em-metabox.php:884
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/em-metabox.php:454 includes/em-metabox.php:560
+#: includes/em-metabox.php:661 includes/em-metabox.php:769
+#: includes/em-metabox.php:885
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/em-metabox.php:455 includes/em-metabox.php:561
+#: includes/em-metabox.php:662 includes/em-metabox.php:770
+#: includes/em-metabox.php:886
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/em-metabox.php:456 includes/em-metabox.php:562
+#: includes/em-metabox.php:663 includes/em-metabox.php:771
+#: includes/em-metabox.php:887
+msgid "rotateInUpRight"
+msgstr ""
+
+#. Name of the theme
+msgid "banko"
+msgstr ""
+
+#. Description of the theme
+msgid "banko - Resort and Hotel Boking WordPress Theme"
+msgstr ""
+
+#. Name of the template
+msgid "banko Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "banko Template"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search Here"
+msgstr ""
+
+#: includes/banko-breadcrumb.php:119
+msgid "Search Results"
+msgstr ""
+
+#: includes/banko-option-framework.php:935
+#: includes/banko-option-framework.php:1578
+msgid "Section Padding Option"
+msgstr ""
+
+#: includes/em-metabox.php:964
+msgid "Select alignment"
+msgstr ""
+
+#: includes/em-metabox.php:95 includes/em-metabox.php:108
+msgid "Select an option"
+msgstr ""
+
+#: includes/banko-option-framework.php:671
+msgid "Select Default Menu For All Single Page"
+msgstr ""
+
+#: includes/banko-option-framework.php:1621
+msgid "Select Footer layout"
+msgstr ""
+
+#: includes/banko-option-framework.php:382
+msgid "Select Header layout"
+msgstr ""
+
+#: includes/banko-option-framework.php:371
+msgid "Select Header Top layout"
+msgstr ""
+
+#: includes/em-metabox.php:255
+msgid "Select Multi Gellary"
+msgstr ""
+
+#: includes/banko-option-framework.php:406
+msgid "Select Your Top Header Style"
+msgstr ""
+
+#: includes/banko-option-framework.php:611
+msgid "Set height ex-100px"
+msgstr ""
+
+#: includes/banko-option-framework.php:625
+msgid "Set number default-15px"
+msgstr ""
+
+#: includes/banko-option-framework.php:618
+msgid "Set Width ex-100px"
+msgstr ""
+
+#: includes/em-metabox.php:184 includes/em-metabox.php:206
+#: includes/em-metabox.php:216 includes/em-metabox.php:226
+#: includes/em-metabox.php:242 includes/em-metabox.php:259
+#: includes/em-metabox.php:275 includes/em-metabox.php:285
+msgid "Show"
+msgstr ""
+
+#: includes/em-metabox.php:72
+msgid "Show breadcrumb"
+msgstr ""
+
+#: includes/em-metabox.php:61 includes/em-metabox.php:82
+msgid "Show Title"
+msgstr ""
+
+#: includes/em-metabox.php:27
+msgid "Show Top Menu This Page"
+msgstr ""
+
+#: includes/em-metabox.php:180
+msgid "Show/Hide All Option"
+msgstr ""
+
+#: includes/em-metabox.php:281
+msgid "Show/Hide Category"
+msgstr ""
+
+#: includes/em-metabox.php:212
+msgid "Show/Hide Link Page"
+msgstr ""
+
+#: includes/em-metabox.php:202
+msgid "Show/Hide Popup Image"
+msgstr ""
+
+#: includes/em-metabox.php:238
+msgid "Show/Hide Popup Vimeo"
+msgstr ""
+
+#: includes/em-metabox.php:222
+msgid "Show/Hide Popup Youtube"
+msgstr ""
+
+#: includes/em-metabox.php:271
+msgid "Show/Hide Title"
+msgstr ""
+
+#: functions.php:258
+msgid "Sidebar"
+msgstr ""
+
+#: includes/banko-option-framework.php:1033
+msgid "Sidebar Contact Icon Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1043
+msgid "Sidebar Contact Icon Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1023
+msgid "Sidebar Contact Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:973
+msgid "Sidebar Contact Title"
+msgstr ""
+
+#: includes/banko-option-framework.php:967
+msgid "Sidebar Desc"
+msgstr ""
+
+#: includes/banko-option-framework.php:1013
+msgid "Sidebar Desc Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1053
+msgid "Sidebar Social Icons"
+msgstr ""
+
+#: includes/banko-option-framework.php:1433
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1455
+msgid "Sidebar Text Hover Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:961
+msgid "Sidebar Title"
+msgstr ""
+
+#: includes/banko-option-framework.php:1003
+#: includes/banko-option-framework.php:1424
+msgid "Sidebar Title Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1466
+msgid "Single Blog Social Icon & Title bar Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1477
+msgid "Single Blog Social Icon Hover Color"
+msgstr ""
+
+#: includes/em-metabox.php:742
+msgid "Slide Image"
+msgstr ""
+
+#: includes/em-metabox.php:463 includes/em-metabox.php:569
+#: includes/em-metabox.php:670 includes/em-metabox.php:778
+#: includes/em-metabox.php:894
+msgid "slideInDown"
+msgstr ""
+
+#: includes/em-metabox.php:464 includes/em-metabox.php:570
+#: includes/em-metabox.php:671 includes/em-metabox.php:779
+#: includes/em-metabox.php:895
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/em-metabox.php:465 includes/em-metabox.php:571
+#: includes/em-metabox.php:672 includes/em-metabox.php:780
+#: includes/em-metabox.php:896
+msgid "slideInRight"
+msgstr ""
+
+#: includes/em-metabox.php:466 includes/em-metabox.php:572
+#: includes/em-metabox.php:673 includes/em-metabox.php:781
+#: includes/em-metabox.php:897
+msgid "slideInUp"
+msgstr ""
+
+#: includes/em-metabox.php:419
+msgid "Slider Option"
+msgstr ""
+
+#: search.php:31
+msgid ""
+"Sorry, but nothing matched your search terms, please try a different search "
+"term."
+msgstr ""
+
+#: includes/banko-option-framework.php:882
+msgid "Sub Menu BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:918
+msgid "Sub Menu Hover Text Color"
+msgstr ""
+
+#: includes/em-metabox.php:533
+msgid "Sub Title"
+msgstr ""
+
+#: includes/em-metabox.php:539
+msgid "Sub Title Animate"
+msgstr ""
+
+#: includes/em-metabox.php:606
+msgid "Sub Title Animate Delay"
+msgstr ""
+
+#: includes/em-metabox.php:579
+msgid "Sub Title Animate Duration"
+msgstr ""
+
+#: includes/banko-option-framework.php:1549
+msgid "Sub Title Color"
+msgstr ""
+
+#: includes/em-metabox.php:406
+msgid "Tab Icon Name"
+msgstr ""
+
+#: includes/em-metabox.php:400
+msgid "Tab Menu Active"
+msgstr ""
+
+#: includes/em-metabox.php:394
+msgid "Tab Menu Image"
+msgstr ""
+
+#: includes/em-metabox.php:387
+msgid "Tab Menu Name"
+msgstr ""
+
+#: includes/em-metabox.php:381
+msgid "Tab Option"
+msgstr ""
+
+#: includes/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: template-parts/content-single.php:72
+msgid "Tags:"
+msgstr ""
+
+#: includes/footer.php:55
+msgid "tel:"
+msgstr ""
+
+#: includes/em-metabox.php:124
+msgid "Testimonial Option"
+msgstr ""
+
+#: includes/em-metabox.php:94
+msgid "Text Align"
+msgstr ""
+
+#: includes/em-metabox.php:959
+msgid "Text Alignment Style"
+msgstr ""
+
+#: includes/banko-option-framework.php:1205
+msgid "Text Color"
+msgstr ""
+
+#: includes/em-metabox.php:107
+msgid "Text Transform"
+msgstr ""
+
+#: includes/banko-option-framework.php:968
+msgid ""
+"The argument in favor of using filler text goes something like this: If you "
+"use real content in the Consulting Process, anytime you reach a review "
+msgstr ""
+
+#: includes/banko-option-framework.php:1838
+msgid "The field desc is NOT visible in customizer."
+msgstr ""
+
+#: includes/banko-option-framework.php:1837
+msgid "The subtitle is NOT visible in customizer"
+msgstr ""
+
+#: includes/banko-option-framework.php:683
+msgid "Theme Brand Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:35
+#: includes/banko-option-framework.php:36
+msgid "Theme Options"
+msgstr ""
+
+#: includes/banko-option-framework.php:1830
+msgid "This Section should be visible only in Customizer"
+msgstr ""
+
+#: includes/em-metabox.php:426
+msgid "Title"
+msgstr ""
+
+#: includes/em-metabox.php:433
+msgid "Title Animate"
+msgstr ""
+
+#: includes/em-metabox.php:500
+msgid "Title Animate Delay"
+msgstr ""
+
+#: includes/em-metabox.php:473
+msgid "Title Animate Duration"
+msgstr ""
+
+#: includes/banko-option-framework.php:1540
+msgid "Title Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:420
+msgid "Top Icon Image"
+msgstr ""
+
+#: includes/em-metabox.php:23
+msgid "Top Menu Style "
+msgstr ""
+
+#: includes/em-metabox.php:116
+msgid "Transform capitalize"
+msgstr ""
+
+#: includes/em-metabox.php:114
+msgid "Transform lowercase"
+msgstr ""
+
+#: includes/em-metabox.php:115
+msgid "Transform uppercase"
+msgstr ""
+
+#: includes/banko-option-framework.php:585
+msgid "Transparent Menu Logo"
+msgstr ""
+
+#: includes/em-metabox.php:407
+msgid "Type Your favorite Font awesome Icon name"
+msgstr ""
+
+#: includes/banko-option-framework.php:168
+msgid "Typography Area"
+msgstr ""
+
+#: includes/banko-option-framework.php:596
+msgid "Upload logo here. ex: - it is work in Retina Logo"
+msgstr ""
+
+#: includes/banko-option-framework.php:588
+msgid "Upload logo here. ex: - it is work in transparent menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:580
+msgid "Upload logo here. ex:- it is work in one page menu"
+msgstr ""
+
+#: includes/banko-option-framework.php:604
+msgid "Upload logo here. recommend size:- 1801x48px."
+msgstr ""
+
+#: includes/banko-option-framework.php:572
+msgid "Upload logo here.ex: - it is work in default menu."
+msgstr ""
+
+#: includes/banko-option-framework.php:1524
+msgid "Use this section to upload background images, select background color"
+msgstr ""
+
+#: includes/em-metabox.php:248
+msgid "Vimeo Video"
+msgstr ""
+
+#: includes/banko-option-framework.php:998
+msgid "Week Days: 09.00 to 18.00 Sunday: Closed"
+msgstr ""
+
+#: includes/banko-option-framework.php:427
+msgid "Welcome Text"
+msgstr ""
+
+#: includes/banko-option-framework.php:428
+msgid "Welcome! To banko Finalce Consulti"
+msgstr ""
+
+#: includes/banko-option-framework.php:158
+msgid "Wellcome Our Theme Option"
+msgstr ""
+
+#: includes/banko-option-framework.php:1642
+msgid "Widget Column Count"
+msgstr ""
+
+#: includes/banko-option-framework.php:1710
+msgid "Widget Section BG Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1608
+msgid "Widget Section Hide/show"
+msgstr ""
+
+#: includes/banko-option-framework.php:1665
+msgid "Widget Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1694
+msgid "Widget Text Hover Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:1656
+msgid "Widget Title Text Color"
+msgstr ""
+
+#: includes/banko-option-framework.php:502
+#: includes/banko-option-framework.php:937
+#: includes/banko-option-framework.php:1172
+#: includes/banko-option-framework.php:1580
+#: includes/banko-option-framework.php:1728
+#: includes/banko-option-framework.php:1812
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: includes/em-metabox.php:232
+msgid "Youtube Video"
+msgstr ""
+
+#: includes/em-metabox.php:458 includes/em-metabox.php:564
+#: includes/em-metabox.php:665 includes/em-metabox.php:773
+#: includes/em-metabox.php:889
+msgid "zoomIn"
+msgstr ""
+
+#: includes/em-metabox.php:459 includes/em-metabox.php:565
+#: includes/em-metabox.php:666 includes/em-metabox.php:774
+#: includes/em-metabox.php:890
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/em-metabox.php:460 includes/em-metabox.php:566
+#: includes/em-metabox.php:667 includes/em-metabox.php:775
+#: includes/em-metabox.php:891
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/em-metabox.php:461 includes/em-metabox.php:567
+#: includes/em-metabox.php:668 includes/em-metabox.php:776
+#: includes/em-metabox.php:892
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/em-metabox.php:462 includes/em-metabox.php:568
+#: includes/em-metabox.php:669 includes/em-metabox.php:777
+#: includes/em-metabox.php:893
+msgid "zoomInUp"
+msgstr ""
